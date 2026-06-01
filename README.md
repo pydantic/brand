@@ -1,11 +1,11 @@
-# Pydantic Logos & Brand Guidelines
+# Pydantic logos & brand guidelines
 
 ## The AI engineering stack
 
 ### Pydantic is all you need
 
 - **Pydantic AI** - Agent framework for building production-grade AI applications
-- **Pydantic Logfire** - Observability platform for Python applications
+- **Pydantic Logfire** - Observability and evals platform for the entire AI engineering stack
 - **Pydantic Validation** - Data validation using Python type hints
 
 
