@@ -176,6 +176,8 @@ OpenType features enabled:
 - Diatype: `"ss01" on, "ss12" on, "liga" off`
 - Dwight: `"ss12" on, "ss10" on, "liga" off`
 
+ABC Diatype is a commercial typeface licensed from ABC Dinamo. Its license does not allow the font files to be stored in public repositories, so they are not distributed from here; ask the design team for access to the licensed files.
+
 ---
 
 ## 6. Key visual principles
